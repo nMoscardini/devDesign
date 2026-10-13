@@ -1,6 +1,6 @@
 # Design Principles
 
-Version 3.0. Updated 20 September 2026.
+Version 3.1. Updated 13 October 2026.
 
 ## Purpose
 
@@ -8,12 +8,13 @@ Guiding principles for Nino's software. They keep projects simple, safe, and mai
 
 Most of this is defaults, not laws. If a default gets in the way, say so and record why you are departing from it. The non-negotiables (N1 to N7) and the hard rules in REFERENCE_ARCHITECTURE.md (H1 to H3) are different. They are gates. They come first.
 
-Four files:
+Five files:
 
 - DESIGN_PRINCIPLES.md (this file). Durable rules. Always read it.
 - REFERENCE_ARCHITECTURE.md. The current stack and setup. It changes when hardware or tools change.
 - PROJECT_TEMPLATE.md. For starting a project: a one-page spec, a state document, deviation records.
 - REVIEW_PROCESS.md. How to review a project.
+- UI_PRINCIPLES.md. How apps and pages look and behave. Read it for any project with an interface.
 
 If they disagree, the gates win, then this file, then the others.
 

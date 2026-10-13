@@ -70,6 +70,7 @@ Port register (recorded September 2026, ask Nino to confirm). Add a row for each
 | Lumen admin app | 8001 | Local only |
 | Observer Catcher | 8002 | Internet-facing, through the tunnel |
 | devDownload | 8020 | Local only |
+| devGo | 8030 | Local only |
 
 ## Remote access
 
